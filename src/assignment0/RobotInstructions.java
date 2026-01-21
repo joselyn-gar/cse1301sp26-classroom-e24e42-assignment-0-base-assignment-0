@@ -60,6 +60,7 @@ public class RobotInstructions  {
 		robot.forward(260);
 		robot.turnLeft(120);
 		robot.forward(280);
+		robot.forward(10);
 		
 		
 		
